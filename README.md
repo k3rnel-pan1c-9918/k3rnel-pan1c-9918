@@ -6,7 +6,9 @@
   </p>  
   
   <!-- Snake --> 
+  <!-- 
   ![Snake animation](https://github.com/k3rnel-pan1c-9918/k3rnel-pan1c-9918/blob/output/github-contribution-grid-snake.svg)
+  -->
   
   <!-- Languages -->
 <br>
@@ -78,8 +80,10 @@
           </th>
       </table>
       <!-- Last month contributions -->
+      <!-- 
       <p>
           <img style="width:100%" src="https://activity-graph.herokuapp.com/graph?username=k3rnel-pan1c-9918&theme=github" />
       </p>
+      -->
   </div>
   
